@@ -44,7 +44,7 @@ production-ready tools.
 |---|---|---|
 | [**Customer Churn Prediction**](https://github.com/Manikaura/customer-churn-prediction) | End-to-end churn framework on the UCI Online Retail II dataset — RFM features, time-split labelling, model comparison (best: Gradient Boosting, ROC-AUC 0.80). | Python · scikit-learn · pandas |
 | [**Time-Series Forecasting (EDA & Model Testing)**](https://github.com/Manikaura/TimeSeries-Forecasting-EDA-and-Model-Testing) | EDA and forecasting experiments (ARIMA, SARIMA, Exponential Smoothing) for inpatient demand. | Python · statsmodels |
-| [**House Valuation System**](https://github.com/Manikaura/House-Valuation-system-using-ML-models) | Melbourne housing price prediction with a Flask web app for live predictions. | Python · scikit-learn · Flask |
+| [**Automated Valuation Model (AVM)**](https://github.com/Manikaura/House-Valuation-system-using-ML-models) &nbsp;·&nbsp; [**▶️ Live demo**](https://graekoy7vqi7euvdkkucrm.streamlit.app/) | Explainable, uncertainty-aware property valuation — LightGBM + Optuna, SHAP explanations, conformal prediction intervals (R² 0.85). Interactive Streamlit app. | Python · LightGBM · SHAP · Streamlit |
 
 ---
 
