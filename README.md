@@ -40,11 +40,13 @@ production-ready tools.
 
 ### 📌 Featured projects
 
-| Project | What it does | Stack |
-|---|---|---|
-| [**Customer Churn Prediction**](https://github.com/Manikaura/customer-churn-prediction) | End-to-end churn framework on the UCI Online Retail II dataset — RFM features, time-split labelling, model comparison (best: Gradient Boosting, ROC-AUC 0.80). | Python · scikit-learn · pandas |
-| [**Time-Series Forecasting (EDA & Model Testing)**](https://github.com/Manikaura/TimeSeries-Forecasting-EDA-and-Model-Testing) | EDA and forecasting experiments (ARIMA, SARIMA, Exponential Smoothing) for inpatient demand. | Python · statsmodels |
-| [**Automated Valuation Model (AVM)**](https://github.com/Manikaura/House-Valuation-system-using-ML-models) &nbsp;·&nbsp; [**▶️ Live demo**](https://graekoy7vqi7euvdkkucrm.streamlit.app/) | Explainable, uncertainty-aware property valuation — LightGBM + Optuna, SHAP explanations, conformal prediction intervals (R² 0.85). Interactive Streamlit app. | Python · LightGBM · SHAP · Streamlit |
+| Project | Highlights | Tech | Links |
+|---|---|---|---|
+| [**Hospital-KPI Forecasting Engine**](https://github.com/Manikaura/TimeSeries-Forecasting-EDA-and-Model-Testing) | Multi-KPI US-healthcare demand forecasting — deep EDA, SARIMAX + Fourier / Holt-Winters / Prophet, rolling-CV SMAPE selection (~1.4% on operational KPIs). | `statsmodels` · `Prophet` · `Streamlit` | [📊 Slides](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Manikaura/TimeSeries-Forecasting-EDA-and-Model-Testing/main/reports/Hospital_KPI_Forecasting.pptx) <br> [▶️ Live demo](https://manik-hospital-forecasting.streamlit.app) |
+| [**Automated Valuation Model (AVM)**](https://github.com/Manikaura/House-Valuation-system-using-ML-models) | Explainable, uncertainty-aware property valuation — LightGBM + Optuna, SHAP explanations, conformal prediction intervals (R² 0.85). | `LightGBM` · `SHAP` · `Streamlit` | [📊 Slides](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Manikaura/House-Valuation-system-using-ML-models/main/reports/AVM_house_valuation.pptx) <br> [▶️ Live demo](https://graekoy7vqi7euvdkkucrm.streamlit.app/) |
+| [**Customer Churn Prediction**](https://github.com/Manikaura/customer-churn-prediction) | Behavioural churn on UCI Online Retail II — leakage-free time-split, RFM features, 5-model comparison (Gradient Boosting, ROC-AUC 0.80). | `scikit-learn` · `SHAP` · `Streamlit` | [📊 Slides](https://view.officeapps.live.com/op/view.aspx?src=https://raw.githubusercontent.com/Manikaura/customer-churn-prediction/main/reports/churn_prediction_slides.pptx) <br> [▶️ Live demo](https://manik-churn-demo.streamlit.app) |
+
+<sub>📊 Slides open in your browser (Office viewer) · ▶️ demos are live interactive Streamlit apps.</sub>
 
 ---
 
